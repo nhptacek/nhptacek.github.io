@@ -255,9 +255,9 @@ a:focus {
 
 .download-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 200px 0;
     color: #fff;
-    background: url(../img/Luke.jpg) no-repeat center center scroll;
+    background: url(../img/Luke.jpg) no-repeat  center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -267,9 +267,9 @@ a:focus {
 
 .nora-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 200px 0;
     color: #fff;
-    background: url(../img/Nora.png) no-repeat center center scroll;
+    background: url(../img/Nora.png) no-repeat  center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
